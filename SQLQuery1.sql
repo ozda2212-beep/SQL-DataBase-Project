@@ -1,5 +1,3 @@
-﻿use MatchMe1
-
 USE MatchMe1;
 GO
 
@@ -87,6 +85,7 @@ SELECT A FROM MutualHate
 EXCEPT
 SELECT B FROM MutualHate;
 GO
+
 
 
 
